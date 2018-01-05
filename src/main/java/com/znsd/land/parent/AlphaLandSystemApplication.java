@@ -8,5 +8,6 @@ public class AlphaLandSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlphaLandSystemApplication.class, args);
+		System.out.println("运行完毕");
 	}
 }
